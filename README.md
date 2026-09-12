@@ -6,3 +6,5 @@ Juice Calculator,Juice Writer,Juice Notes.
 [MrGreen10's Web Site!!](https://sites.google.com/view/mrgreen10/home-page)
 # Artık Desteklenmiyor!
 Juice Office 2025 artık desteklenmiyor.
+# UYARI
+İnternetsiz çalışmaz
